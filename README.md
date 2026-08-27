@@ -1,3 +1,9 @@
+# 版本提示
+
+ffmpeg-7.1-full_build
+
+可以讓影片和heic都不出問題!
+
 # SMGFlow — HEIC 批次轉 JPG
 
 Windows 桌面工具，針對 Samsung／手機 HEIC Tile Grid 使用兩段 FFmpeg pipeline：第一段先把完整 grid 解碼成 PNG pipe，第二段才保持比例縮放並編碼成 JPEG。程式不使用 shell、OpenCV 或裁切。
